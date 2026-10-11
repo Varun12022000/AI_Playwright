@@ -39,7 +39,7 @@ Installation & Setup
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Varun12022000/AI_Playwright.git
 cd your-repo-name
 Install dependencies:
 
